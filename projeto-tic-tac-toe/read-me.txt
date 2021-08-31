@@ -1,0 +1,1 @@
+Projeto Adaptado seguindo o tutorial Build Tic Tac Toe With JavaScript - Tutorial no canal Web Dev Simplifier no YouTube: https://www.youtube.com/watch?v=Y-GkMjUZsmM
