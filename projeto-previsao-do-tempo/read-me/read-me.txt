@@ -1,0 +1,7 @@
+Tutorial por http://youtube.com/CodeExplained
+
+Fonte Rimouski: http://www.onlinewebfonts.com
+
+Ícones: http://peter.build/weather-underground-icons/
+
+Provedor do API: http://www.OpenWeatherMap.org
